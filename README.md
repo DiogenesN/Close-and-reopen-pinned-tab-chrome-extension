@@ -11,7 +11,7 @@ This extension is a workaround for an annoying issue with chromium-based web bro
  7. Click on Options.
  8. Type your favorite web sites URLs (screenshot 2)
  9. Click on 'Save'
-# Note before doing the step 10! Once you left click on the extension it will close all your currently opened tabs except the active one!
+### Note before doing the step 10! Once you left click on the extension it will close all your currently opened tabs except the active one!
  10. Click on extensions again and left click on extension name and it will open all your favorite URLs as pinned (screenshot 3)
 
 # Screenshots
