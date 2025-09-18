@@ -15,13 +15,13 @@ This extension is a workaround for an annoying issue with chromium-based web bro
 
 # Screenshots
 
-![Alt text](https://github.com/DiogenesN/close-and-reopen-pinned/blob/main/1.png)
-![Alt text](https://github.com/DiogenesN/close-and-reopen-pinned/blob/main/2.png)
-![Alt text](https://github.com/DiogenesN/close-and-reopen-pinned/blob/main/3.png)
-![Alt text](https://github.com/DiogenesN/close-and-reopen-pinned/blob/main/4.png)
+![Alt text](https://github.com/DiogenesN/Close-and-reopen-pinned-tab-chrome-extension/blob/main/1.png)
+![Alt text](https://github.com/DiogenesN/Close-and-reopen-pinned-tab-chrome-extension/blob/main/2.png)
+![Alt text](https://github.com/DiogenesN/Close-and-reopen-pinned-tab-chrome-extension/blob/main/3.png)
+![Alt text](https://github.com/DiogenesN/Close-and-reopen-pinned-tab-chrome-extension/blob/main/4.png)
 
 # The issue
-![Alt text](https://github.com/DiogenesN/close-and-reopen-pinned/blob/main/5.png)
+![Alt text](https://github.com/DiogenesN/Close-and-reopen-pinned-tab-chrome-extension/blob/main/5.png)
 
 # Support
 
