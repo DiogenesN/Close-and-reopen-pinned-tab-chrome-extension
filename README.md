@@ -6,7 +6,7 @@ This extension is a workaround for an annoying issue with chromium-based web bro
  2. Open Chrome → chrome://extensions/
  3. Enable Developer mode.
  4. Click Load unpacked
- 5. Load te unarchived folder 'Close-and-reopen-pinned-tab-chrome-extension-main'.
+ 5. Load te unarchived folder 'Close-and-reopen-pinned-tab-chrome-extension-main/close-and-reopen-pinned'.
  6. Click on extensions (screenshot 1)
  7. Click on Options.
  8. Type your favorite web sites URLs (screenshot 2)
