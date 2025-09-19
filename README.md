@@ -4,6 +4,9 @@ This extension is a workaround for an annoying issue with chromium-based web bro
 # How it works
 User has to manually specify a list of URLs that will be stored in the browser storage and when the extension is activated (left click on the icon) it will close all the currently opened tabs (including the pinned tabs) except the currently active tab and it will open all the user-defined URLs as pinned tabs.
 
+### It's available now as an official Chrome Extension:
+https://chromewebstore.google.com/detail/close-and-reopen-urls-as/nmefnnbmgimpgjiiijgflnjafmobopko
+
 # Installation/Usage
  1. Unpack the archive.
  2. Open Chrome → chrome://extensions/
